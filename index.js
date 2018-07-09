@@ -2,4 +2,4 @@
 let companyName = 'Scuber'';
 const companyName ='Scuber;
 let companyName = 'specialCompany';
-let = 'Chelsea'
+let mostProfitableNeighborhood ='Chelsea';
